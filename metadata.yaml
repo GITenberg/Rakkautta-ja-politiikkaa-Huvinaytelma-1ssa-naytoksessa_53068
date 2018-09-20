@@ -1,0 +1,27 @@
+_repo: Rakkautta-ja-politiikkaa-Huvinaytelma-1ssa-naytoksessa_53068
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Turunen, Armas E.
+    aliases:
+    - Suru
+    - A. T.
+    birthdate: 1886
+    deathdate: 1909
+    gutenberg_agent_id: '47172'
+    url: http://www.gutenberg.org/2009/agents/47172
+description: ''
+gutenberg_issued: '2016-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53068'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Rakkautta ja politiikkaa: Huvinäytelmä 1:ssä näytöksessä'
+url: http://www.gutenberg.org/ebooks/53068
